@@ -1,0 +1,14 @@
+ru:
+  simple_form:
+    placeholders:
+      Заметка:
+        name: Name of your quote
+    labels:
+      Заметка:
+        name: Name
+
+  helpers:
+    Создать:
+      quote:
+        Создать: Создать заметку
+        Обновить: Обновить заметку
