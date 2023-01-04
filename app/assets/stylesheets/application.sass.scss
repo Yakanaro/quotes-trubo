@@ -4,6 +4,7 @@
 // Configuration
 @import "config/variables";
 @import "config/reset";
+@import "config/animations";
 
 // Components
 @import "components/btn";
@@ -13,6 +14,8 @@
 @import "components/quote";
 @import "components/navbar";
 @import "components/empty_state";
+@import "components/flash";
+@import "components/line_item_date";
 
 // Layouts
 @import "layouts/container";

@@ -1,14 +1,19 @@
-ru:
+en:
   simple_form:
     placeholders:
-      Заметка:
+      quote:
         name: Name of your quote
     labels:
-      Заметка:
+      quote:
         name: Name
+      line_item_date:
+        date: Date
 
   helpers:
-    Создать:
+    submit:
       quote:
-        Создать: Создать заметку
-        Обновить: Обновить заметку
+        create: Create quote
+        update: Update quote
+      line_item_date:
+        create: Create date
+        update: Update date
